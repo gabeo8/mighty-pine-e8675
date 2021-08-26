@@ -180,6 +180,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
   blog:
     type: page
     urlPath: /blog
